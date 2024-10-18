@@ -11,7 +11,7 @@
   "keywords": [
     "api"
   ],
-  "author": "Prem",
+  "author": "Nivetha",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
